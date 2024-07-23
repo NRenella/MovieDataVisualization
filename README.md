@@ -2,6 +2,8 @@
 ## Purpose
 I have a passion for data and movies so I thought why not try to create a visual for some popular movies throughout the year.
 
+The dashboard is interactable as you can highlight a time period to get the stats for all the movies released during that period.
+
 The link to the data visualization dashboard can be found here: [Tableau Dashboard](https://public.tableau.com/app/profile/noah.renella/viz/MovieVisual_17217677790510/DataDashboard?publish=yes)
 
 You may also see a screenshot of the dashboard below.
@@ -21,4 +23,4 @@ Thank you checking it out.
 
 Send me any suggestions at: NTRenella@gmail.com
 
-![screenshot]()
+![screenshot](https://github.com/NRenella/MovieDataVisualization/blob/main/Data%20Dashboard.png)
