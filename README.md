@@ -23,4 +23,6 @@ Thank you checking it out.
 
 Send me any suggestions at: NTRenella@gmail.com
 
+## Dashboard Screenshot
+
 ![screenshot](https://github.com/NRenella/MovieDataVisualization/blob/main/Data%20Dashboard.png)
